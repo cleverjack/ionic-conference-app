@@ -1,0 +1,23 @@
+page-settings{
+  .settings-content{
+
+  }
+
+  .list-md[inset] .item:first-child {
+    padding-left: 0px;
+    padding-bottom: 40px;
+  }
+
+  .buttons-wrapper{
+    padding-top: 10px;
+    padding-left: 10px;
+  }
+
+  .settings-button{
+    width: 31%;
+  }
+
+  ion-label{
+    width: 25%;
+  }
+}
